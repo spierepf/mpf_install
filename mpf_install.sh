@@ -10,7 +10,7 @@
 #sudo apt install --assume-yes --no-install-recommends lxdm
 sudo apt install --assume-yes --no-install-recommends xorg openbox pulseaudio
 sudo apt install --assume-yes --no-install-recommends pypy python-serial python-yaml python-pygame unclutter build-essential
-sudo apt install --assume-yes --no-install-recommends linux-lowlatency linux-headers-lowlatency
+#sudo apt install --assume-yes --no-install-recommends linux-lowlatency linux-headers-lowlatency
 sudo apt install --assume-yes --no-install-recommends alsa-utils vorbis-tools
 sudo usermod -a -G audio hms
 wget http://blog.ginzburgconsulting.com/wp-content/uploads/2013/02/silent.ogg
